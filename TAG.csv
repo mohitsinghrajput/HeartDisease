@@ -1,0 +1,769 @@
+CNO,START,END,CYTOBAND,GSYM,GTYPE,DISEASE
+1,0,2300000,1p36.33,SKI,Oncogene,V-Ski Avian Sarcoma Viral Oncogene Homolog
+1,7100000,9200000,1p36.23,PARK7,Oncogene,Parkinson Protein 7
+1,7100000,27800000,1p36.2-p36.1,FGR,Oncogene,Feline Gardner-Rasheed Sarcoma Viral Oncogene Homolog
+1,7100000,16100000,1p36.2,ENO1,--,enolase 1
+1,16100000,20300000,1p36.13,AKR7A2,Other,Aldo-Keto Reductase Family 7
+1,16100000,20300000,1p36.13,NBL1,Tumor suppressor gene,Neuroblastoma 1
+1,16100000,20300000,1p36.13,PAX7,Other,Paired Box 7
+1,16100000,20300000,1p36.13,ZBTB17,Other,Zinc Finger And BTB Domain Containing 17
+1,23800000,27800000,1p36.11,LIN28A,--,lin-28 homolog A (C. elegans) (Previous name: lin-28 homolog (C. elegans) ) LIN28A: Approved
+1,16100000,34400000,1p36.1-p35,EPHB2,Tumor suppressor gene,EPH Receptor B2
+1,16100000,27800000,1p36.1,EXTL1,Tumor suppressor gene,Exostosin-Like Glycosyltransferase 1
+1,0,27800000,1p36,CDC2L1,Tumor suppressor gene,cell division cycle 2-like 1 (PITSLRE proteins)
+1,0,27800000,1p36,RUNX3,Tumor suppressor gene,Runt-Related Transcription Factor 3
+1,0,27800000,1p36,TRE,Oncogene,tRNA glutamic acid
+1,27800000,30000000,1p35.3,ARID1A,Tumor suppressor gene,AT Rich Interactive Domain 1A (SWI-Like)
+1,32200000,34400000,1p35.1,FNDC5,--,fibronectin type III domain containing 5 FNDC5: Approved
+1,27800000,46500000,1p35-p34,COL16A1,--,Collagen
+1,27800000,34400000,1p35,BAI2,Tumor suppressor gene,Brain-Specific Angiogenesis Inhibitor
+1,27800000,34400000,1p35,PLA2G2A,Tumor suppressor gene,Phospholipase A2
+1,34400000,39600000,1p34.3,AGO1,--,Argonaute RISC Catalytic Component 1
+1,34400000,39600000,1p34.3,KIAA0754,--,(predicted) KIAA0754
+1,34400000,39600000,1p34.3,LCK,Oncogene,Lymphocyte-Specific Protein Tyrosine Kinase
+1,39600000,43900000,1p34.2,MYCL1,Oncogene,v-myc myelocytomatosis viral oncogene homolog 1
+1,43900000,46500000,1p34.1,PTCH2,Tumor suppressor gene,Patched
+1,34400000,46500000,1p34,MPL,Oncogene,Myeloproliferative Leukemia Virus Oncogene
+1,34400000,46500000,1p34,PTPRF,Tumor suppressor gene,Protein Tyrosine Phosphatase
+1,46500000,60900000,1p33-p32,FABP3,Tumor suppressor gene,Fatty Acid Binding Protein 3
+1,46500000,60900000,1p33-p32,TGFBR3,Tumor suppressor gene,Transforming Growth Factor
+1,51300000,56200000,1p32.3,TTC4,Tumor suppressor gene,Tetratricopeptide Repeat Domain 4
+1,51300000,84700000,1p32-p31,JUN,Oncogene,Jun Proto-Oncogene
+1,51300000,60900000,1p32,CDKN2C,Tumor suppressor gene,Cyclin-Dependent Kinase Inhibitor
+1,51300000,60900000,1p32,EPS15,Other,Epidermal Growth Factor Receptor Pathway Substrate 15
+1,51300000,60900000,1p32,ORC1,--,Origin Recognition Complex
+1,51300000,60900000,1p32,RNF11,Other,Ring Finger Protein 11
+1,51300000,60900000,1p32,TAL1,Oncogene,T-Cell Acute Lymphocytic Leukemia 1
+1,60900000,69500000,1p31.3-p31.2,IL12RB2,Tumor suppressor gene,Interleukin 12 Receptor
+1,60900000,68700000,1p31.3,FOXD3,--,Forkhead Box D3
+1,69500000,84700000,1p31.1,DNAJB4,Tumor suppressor gene,DnaJ (Hsp40) Homolog
+1,60900000,84700000,1p31,DIRAS3,Tumor suppressor gene,DIRAS Family
+1,84700000,88100000,1p22.3,CYR61,--,Cysteine-Rich
+1,92000000,94500000,1p22.1,ARHGAP29,Tumor suppressor gene,Rho GTPase Activating Protein
+1,84700000,94500000,1p22,BCL10,Tumor suppressor gene,B-Cell CLL/Lymphoma 10
+1,84700000,94500000,1p22,GFI1,Oncogene,Growth Factor Independent 1 Transcription Repressor
+1,94500000,107000000,1p21,EXTL2,Tumor suppressor gene,Exostosin-Like Glycosyltransferase
+1,107000000,111600000,1p13.3,GSTM1,& -- & Tumor suppressor gene,glutathione S-transferase mu 1 ------------------------------ (Previous name: glutathione S-transfer
+1,107000000,111600000,1p13.3,PRMT6,--,Protein Arginine Methyltransferase 6
+1,107000000,111600000,1p13.3,VAV3,Oncogene,Vav 3 Guanine Nucleotide Exchange Factor
+1,111600000,115900000,1p13.2,NRAS,Oncogene,Neuroblastoma RAS Viral (V-Ras) Oncogene Homolog
+1,107000000,117600000,1p13,WNT2B,Other,Wingless-Type MMTV Integration Site Family
+1,128000000,142400000,1q12,CHD1L,Oncogene,Chromodomain Helicase DNA Binding Protein 1-Like
+1,142400000,153300000,1q21,BCL9,Other,B-Cell CLL/Lymphoma 9
+1,142400000,153300000,1q21,JTB,Other,Jumping Translocation Breakpoint
+1,142400000,153300000,1q21,MLLT11,Oncogene,Myeloid/Lymphoid Or Mixed-Lineage Leukemia (Trithorax Homolog
+1,142400000,153300000,1q21,PIAS3,Other,Protein Inhibitor Of Activated STAT
+1,142400000,153300000,1q21,RPS27,Other,Ribosomal Protein S27
+1,142400000,153300000,1q21,S100A11,Other,S100 Calcium Binding Protein A11
+1,142400000,153300000,1q21,S100A2,Tumor suppressor gene,S100 Calcium Binding Protein A2
+1,142400000,153300000,1q21,SETDB1,Other,SET Domain
+1,142400000,153300000,1q21,SHC1,Other,SHC (Src Homology
+1,142400000,154800000,1q21-q22,NTRK1,Oncogene,Neurotrophic Tyrosine Kinase
+1,142400000,163800000,1q21-q23,ETV3,Oncogene,Ets Variant 3
+1,148000000,149600000,1q21.2,C1ORF152,Oncogene,chromosome 1 open reading frame 152
+1,148000000,149600000,1q21.2,KIAA1245,Oncogene,KIAA1245
+1,153300000,154800000,1q22,AIM2,Tumor suppressor gene,Absent In Melanoma
+1,153300000,154800000,1q22,GON4L,--,Gon-4-Like (C. Elegans)
+1,154800000,163800000,1q23,HSD17B7,Tumor suppressor gene,Hydroxysteroid (17-Beta) Dehydrogenase 7
+1,154800000,163800000,1q23,PBX1,Oncogene,Pre-B-Cell Leukemia Homeobox 1
+1,158800000,163800000,1q23.3,DDR2,--,discoidin domain receptor tyrosine kinase 2 (Previous names: discoidin domain receptor family
+1,158800000,163800000,1q23.3,HSPA7,--,Heat Shock 70kDa Protein 7 (HSP70B)
+1,171200000,197500000,1q25-q31,LAMC2,Oncogene,Laminin
+1,174300000,178600000,1q25.2,ABL2,Oncogene,C-Abl Oncogene
+1,184000000,197500000,1q31,RGS2,Other,Regulator Of G-Protein Signaling
+1,184000000,212100000,1q31-q32,PTPRC,--,Protein Tyrosine Phosphatase
+1,197500000,212100000,1q32,BTG2,Tumor suppressor gene,BTG Family
+1,197500000,212100000,1q32,IL24,Tumor suppressor gene,Interleukin
+1,197500000,205300000,1q32.1,JARID1B,Other,Jumonji
+1,197500000,205300000,1q32.1,LRRN5,Oncogene,leucine rich repeat neuronal 5
+1,197500000,205300000,1q32.1,MIR181A1,--,microRNA 181a-1 (Previous name: microRNA 213 ) MIR181A1: Approved
+1,205300000,209500000,1q32.2,ELF3,Oncogene,E74-Like Factor 3 (Ets Domain Transcription Factor
+1,212100000,222100000,1q41,PROX1,Tumor suppressor gene,Prospero Homeobox 1
+1,212100000,222100000,1q41,TGFB2,--,transforming growth factor
+1,222100000,232700000,1q42.1-q42.2,LYST,Other,Lysosomal Trafficking Regulator
+1,222100000,234600000,1q42.11-q42.3,RHOU,--,Ras Homolog Family Member U
+1,225100000,228800000,1q42.13,ADCK3,--,aarF domain containing kinase 3 (Previous names: chaperone-ABC1 (activity of bc1 complex
+1,228800000,232700000,1q42.2,EXOC8,--,exocyst complex component 8 EXOC8: Approved
+1,234600000,241700000,1q43,CHRM3,Other,Cholinergic Receptor
+1,234600000,241700000,1q43,LGALS8,Other,Lectin
+1,241700000,247249719,1q44,AKT3,Oncogene,V-Akt Murine Thymoma Viral Oncogene Homolog 3
+1,241700000,247249719,1q44,ZNF496,--,Zinc Finger Protein 496
+2,12800000,17000000,2p24.3,MYCN,Oncogene,V-Myc Avian Myelocytomatosis Viral Oncogene Neuroblastoma...
+2,19100000,23900000,2p24.1,MYCNOS,Other,v-myc myelocytomatosis viral related oncogene
+2,12800000,23900000,2p24,DDX1,Other,DEAD (Asp-Glu-Ala-Asp) Box Helicase 1
+2,12800000,23900000,2p24,NAG,Other,neuroblastoma-amplified protein
+2,12800000,23900000,2p24,RHOB,Oncogene,Ras Homolog Family Member B
+2,12800000,23900000,2p24,ROCK2,--,Rho-Associated
+2,23900000,29800000,2p23.3-p23.2,EMILIN1,Other,Elastin Microfibril Interfacer 1
+2,31900000,47600000,2p22.3-p21,ZFP36L2,Other,ZFP36 Ring Finger Protein-Like
+2,31900000,47600000,2p22-p21,EIF2AK2,Tumor suppressor gene,Eukaryotic Translation Initiation Factor
+2,41600000,47600000,2p21,MSH2,Tumor suppressor gene,MutS Homolog
+2,54800000,61100000,2p16.1,BCL11A,Oncogene,B-Cell CLL/Lymphoma 11A (Zinc Finger Protein)
+2,47600000,61100000,2p16,MSH6,Other,MutS Homolog 6
+2,61100000,64000000,2p15,COMMD1,--,copper metabolism (Murr1) domain containing 1 --------------------------------------------- (Previou
+2,64000000,70500000,2p14,MEIS1,Oncogene,Meis Homeobox 1
+2,64000000,70500000,2p14,SERTAD2,Oncogene,SERTA Domain Containing
+2,70500000,83700000,2p13-p12,REL,Oncogene,V-Rel Avian Reticuloendotheliosis Viral Oncogene Homolog
+2,75400000,83700000,2p12,IGKV1-5,--,Immunoglobulin Kappa Variable 1-5
+2,75400000,83700000,2p12,IGKV1D-33,--,Immunoglobulin Kappa Variable 1D-33
+2,75400000,83700000,2p12,IGKV3D-11,--,Immunoglobulin Kappa Variable 3D-11
+2,75400000,83700000,2p12,IGKV3D-20,--,Immunoglobulin Kappa Variable 3D-20
+2,95700000,108600000,2q11.2-q12,LAF4,Oncogene,AF4/FMR2 family
+2,105300000,106700000,2q12.2,FHL2,Other,Four And A Half LIM Domains
+2,113800000,129600000,2q14,BIN1,Tumor suppressor gene,Bridging Integrator 1
+2,113800000,129600000,2q14,BUB1,Other,BUB1 Mitotic Checkpoint Serine/Threonine Kinase
+2,113800000,129600000,2q14,IL1B,--,interleukin 1
+2,113800000,118600000,2q14.1,MERTK,Oncogene,C-Mer Proto-Oncogene Tyrosine Kinase
+2,118600000,122100000,2q14.2,RALB,Oncogene,V-Ral Simian Leukemia Viral Oncogene Homolog B
+2,118600000,122100000,2q14.2,STEAP3,Tumor suppressor gene,STEAP Family Member 3
+2,136600000,154600000,2q22-q23,NR4A2,--,nuclear receptor subfamily 4
+2,169500000,182700000,2q31,NFE2L2,--,Nuclear Factor
+2,169500000,182700000,2q31,TTN,--,titin ----- (Previous names: cardiomyopathy
+2,169500000,177700000,2q31.1,PMS1,Other,PMS1 Postmeiotic Segregation Increased 1 (S. Cerevisiae)
+2,177700000,180400000,2q31.2,HNRPA3,Other,heterogeneous nuclear ribonucleoprotein A3
+2,182700000,215100000,2q32-q34,GLS,--,glutaminase GLS: Approved
+2,197100000,209100000,2q33,ABI2,Tumor suppressor gene,Abl-Interactor
+2,197100000,209100000,2q33,FZD7,Other,Frizzled Class Receptor 7
+2,197100000,209100000,2q33,NIF3L1,--,NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae) (Previous names: NIF3 (Ngg1 interacting factor
+2,205600000,215100000,2q33.3-q34,ERBB4,Oncogene,V-Erb-B2 Avian Erythroblastic Leukemia Viral Oncogene Homolog...
+2,209100000,221300000,2q34-q35,BARD1,Tumor suppressor gene,BRCA1 Associated RING Domain 1
+2,215100000,221300000,2q35,PAX3,Other,Paired Box 3
+2,221300000,230700000,2q36,ABCB6,Other,ATP-Binding Cassette
+2,221300000,242951149,2q36-q37,COL4A3,Tumor suppressor gene,Collagen
+2,221300000,224900000,2q36.1,FARSLB,Other,phenylalanine-tRNA synthetase-like
+2,224900000,225800000,2q36.2,CUL3,Tumor suppressor gene,Cullin 3
+3,3500000,5500000,3p26.2,OGG1,--,8-oxoguanine DNA glycosylase OGG1: Approved
+3,0,8700000,3p26,FANCD2,Tumor suppressor gene,Fanconi Anemia
+3,8700000,11500000,3p25.3,VHL,Tumor suppressor gene,Von Hippel-Lindau Tumor Suppressor
+3,8700000,14700000,3p25,RAF1,Oncogene,V-Raf-1 Murine Leukemia Viral Oncogene Homolog 1
+3,8700000,14700000,3p25,SYN2,--,synapsin II SYN2: Approved
+3,23800000,26400000,3p24.2,RARB,Tumor suppressor gene,Retinoic Acid Receptor
+3,23800000,26400000,3p24.2,THRB,Oncogene,Thyroid Hormone Receptor
+3,36500000,39300000,3p22.2,RPSA,Other,Ribosomal Protein SA
+3,32100000,51400000,3p22-p21.3,PLCD1,Tumor suppressor gene,Phospholipase C
+3,32100000,43600000,3p22,TGFBR2,Tumor suppressor gene,Transforming Growth Factor
+3,44700000,51700000,3p21.31-p21.2,BAP1,Tumor suppressor gene,BRCA1 Associated Protein-1 (Ubiquitin Carboxy-Terminal Hydrolase)
+3,44700000,51400000,3p21.31,GNAI2,Other,Guanine Nucleotide Binding Protein (G Protein)
+3,43600000,51400000,3p21.3,DLEC1,Tumor suppressor gene,Deleted In Lung And Esophageal Cancer 1
+3,43600000,51400000,3p21.3,LIMD1,Tumor suppressor gene,LIM Domains Containing 1
+3,43600000,51400000,3p21.3,MLH1,Tumor suppressor gene,MutL Homolog 1
+3,43600000,51400000,3p21.3,NPRL2,Tumor suppressor gene,Nitrogen Permease Regulator-Like
+3,43600000,51400000,3p21.3,RASSF1,Tumor suppressor gene,Ras Association (RalGDS/AF-6) Domain Family Member 1
+3,43600000,51400000,3p21.3,RBM5,Tumor suppressor gene,RNA Binding Motif Protein 5
+3,43600000,51400000,3p21.3,RBM6,Tumor suppressor gene,RNA Binding Motif Protein 6
+3,43600000,51400000,3p21.3,RHOA,Other,Ras Homolog Family Member A
+3,43600000,51400000,3p21.3,USP4,Oncogene,Ubiquitin Specific Peptidase 4 (Proto-Oncogene)
+3,51700000,54400000,3p21.1,ARMET,Other,arginine-rich
+3,43600000,71800000,3p21-p14,PTPRG,Tumor suppressor gene,Protein Tyrosine Phosphatase
+3,43600000,71800000,3p21-p14,WNT5A,Tumor suppressor gene,Wingless-Type MMTV Integration Site Family
+3,43600000,54400000,3p21,CTNNB1,Oncogene,Catenin (Cadherin-Associated Protein)
+3,43600000,54400000,3p21,TCTA,Tumor suppressor gene,T-Cell Leukemia Translocation Altered
+3,58500000,63700000,3p14.2,FHIT,Tumor suppressor gene,Fragile Histidine Triad
+3,63700000,71800000,3p14.1,ADAMTS9,Tumor suppressor gene,ADAM Metallopeptidase With Thrombospondin Type 1 Motif
+3,54400000,87200000,3p14-p12,TSP50,Oncogene,testes-specific protease 50
+3,101500000,102500000,3q12.2,TFG,Oncogene,TRK-Fused Gene
+3,104400000,115000000,3q13.1-q13.2,CD47,Other,CD47 Molecule
+3,104400000,107800000,3q13.11,CBLB,Other,Cbl Proto-Oncogene B
+3,112800000,131500000,3q13.2-q21,LSAMP,Tumor suppressor gene,Limbic System-Associated Membrane Protein
+3,123400000,131500000,3q21,C3orf27,Other,Chromosome 3 Open Reading Frame
+3,131500000,140400000,3q22,RYK,Oncogene,Receptor-Like Tyrosine Kinase
+3,131500000,144400000,3q22-q23,RASA2,--,RAS P21 Protein Activator
+3,137400000,140400000,3q22.3,MRAS,Oncogene,Muscle RAS Oncogene Homolog
+3,140400000,144400000,3q23,ATR,--,Ataxia Telangiectasia And Rad3 Related
+3,140400000,144400000,3q23,TFDP2,Other,Transcription Factor Dp-2 (E2F Dimerization Partner
+3,144400000,193800000,3q24-q28,EVI1,Oncogene,ecotropic viral integration site 1
+3,150400000,161200000,3q25,TM4SF4,--,Transmembrane 4 L Six Family Member 4
+3,150400000,153500000,3q25.1,MLF1,Oncogene,Myeloid Leukemia Factor 1
+3,153500000,156300000,3q25.2,MME,Oncogene,Membrane Metallo-Endopeptidase
+3,158100000,159900000,3q25.32,RARRES1,Tumor suppressor gene,Retinoic Acid Receptor Responder (Tazarotene Induced) 1
+3,161200000,184200000,3q26,SKIL,Oncogene,SKI-Like Oncogene
+3,161200000,184200000,3q26,TERC,Oncogene,telomerase RNA component
+3,161200000,169200000,3q26.1,SERPINI2,Tumor suppressor gene,Serpin Peptidase Inhibitor
+3,169200000,172500000,3q26.2,EIF5A2,Oncogene,Eukaryotic Translation Initiation Factor 5A2
+3,172500000,184200000,3q26.3,DCUN1D1,Oncogene,DCN1
+3,172500000,184200000,3q26.3,PIK3CA,Oncogene,Phosphatidylinositol-4
+3,172500000,184200000,3q26.3,PRKCI,Oncogene,Protein Kinase C
+3,172500000,189400000,3q26.3-q27,LAMP3,Other,Lysosomal-Associated Membrane Protein 3
+3,184200000,189400000,3q27,BCL6,& -- & oncogene,B-Cell CLL/Lymphoma 6
+3,184200000,189400000,3q27,THPO,Oncogene,Thrombopoietin
+3,189400000,193800000,3q28,FGF12,--,Fibroblast Growth Factor 12 --------------------------- (Previous
+3,193800000,199501827,3q29,DLG1,Tumor suppressor gene,Discs
+4,0,3100000,4p16.3,FGFR3,Oncogene,Fibroblast Growth Factor Receptor 3
+4,0,3100000,4p16.3,TACC3,Other,Transforming
+4,0,3100000,4p16.3,WHSC1,Oncogene,Wolf-Hirschhorn Syndrome Candidate 1
+4,5200000,10900000,4p16.1,ABLIM2,Tumor suppressor gene,Actin Binding LIM Protein Family
+4,0,10900000,4p16,CTBP1,Tumor suppressor gene,C-Terminal Binding Protein 1
+4,23100000,27900000,4p15.2,SLIT2,Tumor suppressor gene,Slit Homolog
+4,40900000,45600000,4p13,RAC1P2,--,Ras-Related C3 Botulinum Toxin Substrate 1 Pseudogene
+4,40900000,45600000,4p13,RHOH,Other,Ras Homolog Family Member H
+4,45600000,48700000,4p12,TEC,Oncogene,Tec Protein Tyrosine Kinase
+4,52400000,59200000,4q12,IGFBP7,Tumor suppressor gene,Insulin-Like Growth Factor Binding Protein 7
+4,52400000,59200000,4q12,KIT,Oncogene,V-Kit Hardy-Zuckerman 4 Feline Sarcoma Viral Oncogene Homolog
+4,52400000,59200000,4q12,PDGFRA,Oncogene,Platelet-Derived Growth Factor Receptor
+4,76500000,88200000,4q21,CXCL1,Oncogene,Chemokine (C-X-C Motif) Ligand 1 (Melanoma Growth Stimulating...
+4,76500000,88200000,4q21,DMP1,Tumor suppressor gene,Dentin Matrix Acidic Phosphoprotein 1
+4,76500000,88200000,4q21,FGF5,Oncogene,Fibroblast Growth Factor 5
+4,76500000,88200000,4q21,MLLT2,Oncogene,AF4/FMR2 family
+4,79200000,87100000,4q21.2,CXCL11,--,Chemokine (C-X-C Motif) Ligand 11
+4,87100000,88200000,4q21.3,HPSE,Other,Heparanase
+4,87100000,88200000,4q21.3,PTPN13,Tumor suppressor gene,Protein Tyrosine Phosphatase
+4,102500000,107900000,4q24,NFKB1,--,Nuclear Factor Of Kappa Light Polypeptide Gene Enhancer...
+4,114100000,120600000,4q26,FGF2,& -- & Oncogene,Fibroblast Growth Factor
+4,120600000,124000000,4q27,ANXA5,--,annexin A5 ---------- (Previous
+4,120600000,124000000,4q27,CCNA2,Oncogene,Cyclin A2
+4,141700000,145000000,4q31.21,GAB1,--,GRB2-Associated Binding Protein 1
+4,151000000,155100000,4q31.3,FBXW7,Tumor suppressor gene,F-Box And WD Repeat Domain Containing 7
+4,164500000,170400000,4q32.3,ANP32C,Other,acidic (leucine-rich) nuclear phosphoprotein 32 family
+4,172200000,187300000,4q34.1-q35.1,IRF2,Oncogene,Interferon Regulatory Factor
+4,177800000,182600000,4q34.3,VEGFC,--,Vascular Endothelial Growth Factor C
+4,182600000,191273063,4q35,FAT,Tumor suppressor gene,FAT tumor suppressor homolog 1 (Drosophila)
+4,182600000,187300000,4q35.1,ING2,Tumor suppressor gene,Inhibitor Of Growth Family
+5,0,8200000,5p15.3,SLC6A3,--,solute carrier family 6 (neurotransmitter transporter
+5,8200000,15100000,5p15.2,TRIO,Oncogene,Trio Rho Guanine Nucleotide Exchange Factor
+5,29300000,34400000,5p13.3,DROSHA,--,Drosha
+5,38500000,45800000,5p13.1-p12,GDNF,--,Glial Cell Derived Neurotrophic Factor
+5,38500000,42400000,5p13.1,DAB2,& -- & Tumor suppressor gene,Dab
+5,29300000,42400000,5p13,SKP2,Other,S-Phase Kinase-Associated Protein
+5,42400000,45800000,5p12,FGF10-AS1,--,FGF10 Antisense RNA 1
+5,47700000,58900000,5q11,PPAP2A,Tumor suppressor gene,Phosphatidic Acid Phosphatase Type
+5,47700000,66500000,5q11-q12,MSH3,Other,MutS Homolog 3
+5,63700000,66500000,5q12.3,ERBB2IP,Other,Erbb2 Interacting Protein
+5,66500000,76400000,5q13,ENC1,Tumor suppressor gene,Ectodermal-Neural Cortex 1 (With BTB Domain)
+5,91900000,109600000,5q15-q21,CHD1,--,chromodomain helicase DNA binding protein 1 CHD1: Approved
+5,97300000,109600000,5q21,FER,Oncogene,Fer (Fps/Fes Related) Tyrosine Kinase
+5,97300000,109600000,5q21,MCC,& Tumor suppressor gene & --,mutated in colorectal cancers MCC: Approved
+5,97300000,115200000,5q21-q22,APC,Tumor suppressor gene,Adenomatous Polyposis Coli
+5,97300000,115200000,5q21-q22,SRP19,Other,Signal Recognition Particle 19kDa
+5,115200000,130400000,5q23,GPX3,Tumor suppressor gene,Glutathione Peroxidase 3 (Plasma)
+5,121500000,127300000,5q23.2,LOX,Tumor suppressor gene,Lysyl Oxidase
+5,130400000,143100000,5q31,AFF4,Other,AF4/FMR2 Family
+5,130400000,143100000,5q31,TGFBI,Tumor suppressor gene,Transforming Growth Factor
+5,130400000,135400000,5q31.1,EGR1,Tumor suppressor gene,Early Growth Response 1
+5,130400000,135400000,5q31.1,IRF1,Tumor suppressor gene,Interferon Regulatory Factor 1
+5,130400000,135400000,5q31.1,PDLIM4,Tumor suppressor gene,PDZ And LIM Domain 4
+5,130400000,135400000,5q31.1,PPP2CA,Other,Protein Phosphatase
+5,135400000,139000000,5q31.2,HINT1,Tumor suppressor gene,Histidine Triad Nucleotide Binding Protein 1
+5,139000000,143100000,5q31.3,PCDH1,--,protocadherin 1 (Previous name: protocadherin 1 (cadherin-like 1) ) PCDH1: Approved
+5,143100000,147200000,5q32,ABLIM3,Tumor suppressor gene,Actin Binding LIM Protein Family
+5,143100000,147200000,5q32,CSF1R,Oncogene,Colony Stimulating Factor 1 Receptor
+5,147200000,152100000,5q33.1,PDGFRB,Oncogene,Platelet-Derived Growth Factor Receptor
+5,159900000,167400000,5q34,HMMR,Oncogene,Hyaluronan-Mediated Motility Receptor (RHAMM)
+5,159900000,167400000,5q34,MIR103A1,--,MicroRNA 103a-1
+5,167400000,180857866,5q35,SQSTM1,--,sequestosome 1 (Previous names: Paget disease of bone 3
+5,167400000,172200000,5q35.1,PTTG1,Oncogene,Pituitary Tumor-Transforming 1
+5,172200000,176500000,5q35.2,MSX2,--,Msh Homeobox
+6,0,2300000,6p25.3,DUSP22,Tumor suppressor gene,Dual Specificity Phosphatase
+6,0,15500000,6p25-p23,IRF4,Oncogene,Interferon Regulatory Factor 4
+6,7000000,13500000,6p24,TFAP2A,Other,Transcription Factor AP-2 Alpha (Activating Enhancer Binding...
+6,15500000,23500000,6p22.3,DEK,Oncogene,DEK Oncogene
+6,15500000,29900000,6p22,RFP,Oncogene,ret finger protein
+6,29900000,40600000,6p21.3-p21.2,MAPK14,--,Mitogen-Activated Protein Kinase 14 ----------------------------------- (Previous
+6,29900000,36800000,6p21.3,DDR1,--,discoidin domain receptor tyrosine kinase 1 (Previous names: discoidin domain receptor family
+6,29900000,36800000,6p21.3,DHX16,Other,DEAH (Asp-Glu-Ala-His) Box Polypeptide 16
+6,29900000,36800000,6p21.3,TNF,--,tumor necrosis factor (Previous names: tumor necrosis factor (TNF superfamily
+6,36800000,40600000,6p21.2,CDKN1A,Tumor suppressor gene,Cyclin-Dependent Kinase Inhibitor 1A (P21
+6,36800000,40600000,6p21.2,PIM1,Oncogene,Pim-1 Oncogene
+6,40600000,45200000,6p21.1,CUL7,Oncogene,Cullin 7
+6,29900000,45200000,6p21,CDC5L,Oncogene,Cell Division Cycle 5-Like
+6,29900000,45200000,6p21,RUNX2,Oncogene,Runt-Related Transcription Factor
+6,29900000,45200000,6p21,SKIV2L,Other,Superkiller Viralicidic Activity
+6,52600000,57200000,6p12.1,BMP5,--,Bone Morphogenetic Protein 5
+6,45200000,57200000,6p12,VEGFA,Oncogene,Vascular Endothelial Growth Factor A
+6,57200000,60500000,6p11,RAB23,Oncogene,RAB23
+6,63500000,70000000,6q12,BAI3,Tumor suppressor gene,Brain-Specific Angiogenesis Inhibitor 3
+6,63500000,70000000,6q12,PTP4A1,Other,Protein Tyrosine Phosphatase Type IVA
+6,87500000,92100000,6q15,BACH2,Tumor suppressor gene,BTB And CNC Homology 1
+6,99900000,104800000,6q16.3,HACE1,Tumor suppressor gene,HECT Domain And Ankyrin Repeat Containing E3 Ubiquitin Protein...
+6,104800000,113900000,6q21,FYN,Oncogene,FYN Oncogene Related To SRC
+6,104800000,113900000,6q21,PRDM1,Tumor suppressor gene,PR Domain Containing 1
+6,104800000,113900000,6q21,REV3L,Tumor suppressor gene,REV3-Like
+6,104800000,113900000,6q21,WISP3,Oncogene,WNT1 Inducible Signaling Pathway Protein 3
+6,104800000,130400000,6q21-q22.3,FRK,--,Fyn-Related Kinase
+6,113900000,130400000,6q22,ROS1,Oncogene,C-Ros Oncogene 1 
+6,113900000,139100000,6q22-q23,MYB,& -- & Oncogene,V-Myb Avian Myeloblastosis Viral Oncogene Homolog
+6,113900000,139100000,6q22-q23,TPD52L1,Other,Tumor Protein D52-Like 1
+6,117100000,130400000,6q22.2-q22.3,PTPRK,Tumor suppressor gene,Protein Tyrosine Phosphatase
+6,127300000,130400000,6q22.33,MAP3K5,--,mitogen-activated protein kinase kinase kinase 5 MAP3K5: Approved
+6,130400000,131300000,6q23.1,CTGF,Oncogene,Connective Tissue Growth Factor
+6,135200000,139100000,6q23.3,AHI1,Oncogene,Abelson Helper Integration Site 1
+6,139100000,160900000,6q24-q25,AKAP12,Tumor suppressor gene,A Kinase (PRKA) Anchor Protein 12
+6,139100000,160900000,6q24-q25,PLAGL1,Tumor suppressor gene,Pleiomorphic Adenoma Gene-Like 1
+6,149100000,152600000,6q25.1,ESR1,Oncogene,Estrogen Receptor 1
+6,149100000,152600000,6q25.1,LATS1,Tumor suppressor gene,Large Tumor Suppressor Kinase 1
+6,152600000,155600000,6q25.2,TIAM2,--,T-Cell Lymphoma Invasion And Metastasis
+6,155600000,164400000,6q25.3-q26,MAS1,Oncogene,MAS1 Oncogene
+6,160900000,164400000,6q26,IGF2R,Tumor suppressor gene,Insulin-Like Growth Factor
+6,164400000,170899992,6q27,FGFR1OP,Oncogene,FGFR1 Oncogene Partner
+6,164400000,170899992,6q27,MLLT4,Other,Myeloid/Lymphoid Or Mixed-Lineage Leukemia (Trithorax Homolog
+7,2100000,4500000,7p22.2,GNA12,Oncogene,Guanine Nucleotide Binding Protein (G Protein) Alpha 12
+7,2100000,4500000,7p22.2,PMS2,Other,PMS2 Postmeiotic Segregation Increased
+7,7200000,13300000,7p21.3,ETV1,Oncogene,Ets Variant 1
+7,13300000,15200000,7p21.2,TWIST1,Oncogene,Twist Family BHLH Transcription Factor 1
+7,15200000,19500000,7p21.1,HDAC9,--,Histone Deacetylase 9
+7,15200000,19500000,7p21.1,TSPAN13,Tumor suppressor gene,Tetraspanin 13
+7,24900000,28000000,7p15.2,HOXA10,Oncogene,Homeobox A10
+7,24900000,28000000,7p15.2,HOXA9,Other,Homeobox A9
+7,19500000,46600000,7p15-p13,RALA,& -- & Oncogene,V-Ral Simian Leukemia Viral Oncogene Homolog A (Ras Related)
+7,19500000,31800000,7p15,DFNA5,Tumor suppressor gene,Deafness
+7,31800000,35600000,7p14.3,TBX20,--,T-Box
+7,37500000,43300000,7p14.1,SFRP4,Other,Secreted Frizzled-Related Protein 4
+7,46600000,53900000,7p12,EGFR,Oncogene,Epidermal Growth Factor Receptor
+7,71800000,77400000,7q11.23,PTPN12,Tumor suppressor gene,Protein Tyrosine Phosphatase
+7,77400000,90900000,7q21.1,CYP3A4,Other,Cytochrome P450
+7,77400000,90900000,7q21.1,HGF,Oncogene,Hepatocyte Growth Factor (Hepapoietin A
+7,77400000,86200000,7q21.11,SEMA3E,Other,Sema Domain
+7,86200000,88000000,7q21.12,ABCB1,--,ATP-binding cassette
+7,90900000,92600000,7q21.2,KRIT1,Tumor suppressor gene,KRIT1
+7,90900000,104400000,7q21.2-q22.1,TRRAP,Other,Transformation/Transcription Domain-Associated Protein
+7,97900000,104400000,7q22.1,FBXL13,Tumor suppressor gene,F-Box And Leucine-Rich Repeat Protein 13
+7,97900000,104400000,7q22.1,KMT2E,--,Lysine (K)-Specific Methyltransferase
+7,97900000,104400000,7q22.1,LRRC17,Other,Leucine Rich Repeat Containing 17
+7,97900000,104400000,7q22.1,MBLAC1,--,metallo-beta-lactamase domain containing 1 MBLAC1: Approved
+7,97900000,104400000,7q22.1,NAPE-PLD,Tumor suppressor gene,N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D
+7,97900000,104400000,7q22.1,SVH,Tumor suppressor gene,SVH protein
+7,105900000,107200000,7q22.3,NAMPT,--,Nicotinamide Phosphoribosyltransferase
+7,107200000,126900000,7q31,ING3,Tumor suppressor gene,Inhibitor Of Growth Family
+7,107200000,126900000,7q31,MET,Oncogene,Met Proto-Oncogene
+7,107200000,126900000,7q31,NRCAM,Tumor suppressor gene,Neuronal Cell Adhesion Molecule
+7,107200000,126900000,7q31,SLC26A3,Tumor suppressor gene,Solute Carrier Family
+7,107200000,114400000,7q31.1,CAV1,& -- & Tumor suppressor gene,Caveolin 1
+7,132400000,137300000,7q33,CLEC5A,--,C-Type Lectin Domain Family 5
+7,137300000,142800000,7q34,BRAF,Oncogene,V-Raf Murine Sarcoma Viral Oncogene Homolog B
+7,142800000,147500000,7q35,ARHGEF5,Oncogene,Rho Guanine Nucleotide Exchange Factor (GEF) 5
+7,147500000,158821424,7q36,SHH,Other,Sonic Hedgehog
+7,147500000,152200000,7q36.1,CUL1,Tumor suppressor gene,Cullin 1
+8,2200000,6200000,8p23.2,CSMD1,Tumor suppressor gene,CUB And Sushi Multiple Domains 1
+8,6200000,19100000,8p23.1-p22,GATA4,Oncogene,GATA Binding Protein 4
+8,12700000,23400000,8p22-p21.3,PDGFRL,Tumor suppressor gene,Platelet-Derived Growth Factor Receptor-Like
+8,12700000,19100000,8p22,DLC1,Tumor suppressor gene,Deleted In Liver Cancer 1
+8,12700000,19100000,8p22,FGF20,Oncogene,Fibroblast Growth Factor
+8,12700000,19100000,8p22,LPL,Tumor suppressor gene,Lipoprotein Lipase
+8,12700000,19100000,8p22,MTUS1,Tumor suppressor gene,Microtubule Associated Tumor Suppressor 1
+8,12700000,19100000,8p22,TUSC3,Tumor suppressor gene,Tumor Suppressor Candidate 3
+8,19100000,23400000,8p21.3,RHOBTB2,Tumor suppressor gene,Rho-Related BTB Domain Containing
+8,23400000,27400000,8p21.2,NKX3-1,Other,NK3 Homeobox 1
+8,19100000,29700000,8p21,BNIP3L,Tumor suppressor gene,BCL2/Adenovirus E1B 19kDa Interacting Protein 3-Like
+8,19100000,29700000,8p21,EXTL3,Tumor suppressor gene,Exostosin-Like Glycosyltransferase 3
+8,19100000,29700000,8p21,SCARA3,Tumor suppressor gene,Scavenger Receptor Class A
+8,29700000,38500000,8p12,DUSP26,Oncogene,Dual Specificity Phosphatase
+8,29700000,38500000,8p12,FGFR1,Oncogene,Fibroblast Growth Factor Receptor 1
+8,39500000,39900000,8p11.22,TACC1,Other,Transforming
+8,38500000,45200000,8p11.2-p11.1,CEBPD,Tumor suppressor gene,CCAAT/Enhancer Binding Protein (C/EBP)
+8,45200000,55600000,8q11,MOS,Oncogene,V-Mos Moloney Murine Sarcoma Viral Oncogene Homolog
+8,45200000,55600000,8q11,PRKDC,--,Protein Kinase
+8,48100000,50400000,8q11.21,CEBPD,Tumor suppressor gene,CCAAT/Enhancer Binding Protein (C/EBP)
+8,66100000,74000000,8q13,LYN,Oncogene,V-Yes-1 Yamaguchi Sarcoma Viral Related Oncogene Homolog
+8,66100000,68100000,8q13.1,COPS5,Oncogene,COP9 Signalosome Subunit 5
+8,66100000,68100000,8q13.1,PTTG3P,--,Pituitary Tumor-Transforming 3
+8,74000000,93500000,8q21,TPD52,Oncogene,Tumor Protein D52
+8,80300000,84900000,8q21.13,UBE2HP1,--,Ubiquitin-Conjugating Enzyme E2H Pseudogene 1
+8,93500000,106100000,8q22,MYBL1,Oncogene,V-Myb Avian Myeloblastosis Viral Oncogene Homolog-Like 1
+8,93500000,106100000,8q22,RUNX1T1,Oncogene,Runt-Related Transcription Factor 1
+8,93500000,106100000,8q22,TP53INP1,Tumor suppressor gene,Tumor Protein P53 Inducible Nuclear Protein 1
+8,93500000,99100000,8q22.1,CCNE2,Other,Cyclin E2
+8,93500000,99100000,8q22.1,RAD54B,Other,RAD54 Homolog B (S. Cerevisiae)
+8,99100000,101600000,8q22.2,MIR875,--,microRNA 875 ------------ (Previous
+8,117700000,146274826,8q24,PVT1,Oncogene,Pvt1 oncogene homolog
+8,117700000,127300000,8q24.1,NOV,Oncogene,Nephroblastoma Overexpressed
+8,117700000,119200000,8q24.11,EXT1,Tumor suppressor gene,Exostosin Glycosyltransferase 1
+8,119200000,122500000,8q24.12,TRPS1,--,Trichorhinophalangeal Syndrome I
+8,127300000,131500000,8q24.21,MYC,Oncogene,V-Myc Avian Myelocytomatosis Viral Oncogene Homolog
+8,131500000,136500000,8q24.22,WISP1,Oncogene,WNT1 Inducible Signaling Pathway Protein 1
+8,140000000,146274826,8q24.3,KCNK9,Oncogene,Potassium Channel
+8,140000000,146274826,8q24.3,NDRG1,Tumor suppressor gene,N-Myc Downstream Regulated 1
+9,0,9000000,9p24,OVC,Oncogene,Oncogene OVC (ovarian adenocarcinoma oncogene)
+9,0,14100000,9p23-p24.3,PTPRD,Tumor suppressor gene,Protein Tyrosine Phosphatase
+9,14100000,19900000,9p22,IFNA1,Tumor suppressor gene,Interferon
+9,14100000,19900000,9p22,MLLT3,Oncogene,Myeloid/Lymphoid Or Mixed-Lineage Leukemia (Trithorax Homolog
+9,19900000,32800000,9p21,CDKN2A,Tumor suppressor gene,Cyclin-Dependent Kinase Inhibitor
+9,19900000,32800000,9p21,CDKN2B,Tumor suppressor gene,Cyclin-Dependent Kinase Inhibitor
+9,32800000,40200000,9p13,FANCG,Tumor suppressor gene,Fanconi Anemia
+9,32800000,40200000,9p13,PAX5,Oncogene,Paired Box 5
+9,86100000,89600000,9q21.33,DAPK1,Tumor suppressor gene,Death-Associated Protein Kinase 1
+9,93000000,101600000,9q22.3,PTCH,Tumor suppressor gene,patched homolog (Drosophila)
+9,95600000,98200000,9q22.32,ANP32B,Other,Acidic (Leucine-Rich) Nuclear Phosphoprotein 32 Family
+9,101600000,113900000,9q31,KLF4,Oncogene,Kruppel-Like Factor 4 (Gut)
+9,101600000,113900000,9q31,PTPN3,Tumor suppressor gene,Protein Tyrosine Phosphatase
+9,113900000,116700000,9q32,1-Dec,Tumor suppressor gene,deleted in esophageal cancer 1
+9,113900000,116700000,9q32,SLC31A1,--,Solute Carrier Family 31 (Copper Transporter)
+9,113900000,116700000,9q32,TAL2,Other,T-Cell Acute Lymphocytic Leukemia
+9,113900000,132500000,9q32-q34.11,RAB14,--,RAB14
+9,116700000,129300000,9q33,TNFSF8,--,Tumor Necrosis Factor (Ligand) Superfamily
+9,116700000,140273252,9q33-q34,TRAF1,--,TNF Receptor-Associated Factor 1
+9,116700000,122000000,9q33.1,TRIM32,Oncogene,Tripartite Motif Containing 32
+9,122000000,125800000,9q33.2,PAPPA,--,Pregnancy-Associated Plasma Protein A
+9,125800000,129300000,9q33.3,LHX2,Other,LIM Homeobox
+9,125800000,129300000,9q33.3,PBX3,Other,Pre-B-Cell Leukemia Homeobox 3
+9,129300000,140273252,9q34,LCN2,Oncogene,Lipocalin
+9,129300000,140273252,9q34,SET,Oncogene,SET translocation (myeloid leukemia-associated)
+9,129300000,140273252,9q34,TRAF2,--,TNF receptor-associated factor 2 TRAF2: Approved
+9,129300000,140273252,9q34,TSC1,Tumor suppressor gene,Tuberous Sclerosis 1
+9,129300000,134900000,9q34.1,ABL1,& -- & Oncogene,C-Abl Oncogene 1
+9,129300000,134900000,9q34.1,NUP214,Other,Nucleoporin
+9,129300000,134900000,9q34.1,VAV2,Oncogene,Vav
+9,132800000,134900000,9q34.13,GFI1B,Other,Growth Factor Independent 1B Transcription Repressor
+9,136600000,140273252,9q34.3,NDOR1,Other,NADPH Dependent Diflavin Oxidoreductase 1
+10,0,6700000,10p15,KLF6,Tumor suppressor gene,Kruppel-Like Factor 6
+10,0,6700000,10p15,NET1,Oncogene,Neuroepithelial Cell Transforming 1
+10,12300000,17300000,10p13,RSU1,Other,Ras Suppressor Protein 1
+10,17300000,38800000,10p12.3-p11.2,BAMBI,Other,BMP And Activin Membrane-Bound Inhibitor
+10,24100000,28300000,10p12.1,TRIAP1P1,--,TP53 Regulated Inhibitor Of Apoptosis 1 Pseudogene 1
+10,28300000,31400000,10p11.23,MAP3K8,Oncogene,Mitogen-Activated Protein Kinase Kinase Kinase 8
+10,28300000,31400000,10p11.23,PCGF4,Oncogene,polycomb group ring finger 4
+10,34500000,38800000,10p11.21,CUL2,Tumor suppressor gene,Cullin
+10,42100000,53300000,10q11.2,NCOA4,Other,Nuclear Receptor Coactivator 4
+10,42100000,53300000,10q11.2,RET,Oncogene,Ret Proto-Oncogene
+10,46100000,50100000,10q11.22,ANXA8,Other,Annexin A8
+10,46100000,50100000,10q11.22,MAPK8,Oncogene,Mitogen-Activated Protein Kinase 8
+10,74600000,77400000,10q22.2,VCL,Tumor suppressor gene,Vinculin
+10,82000000,105700000,10q23-q24,PPP1R3C,Tumor suppressor gene,Protein Phosphatase 1
+10,87900000,98000000,10q23.2-q23.3,SNCG,Other,Synuclein
+10,89600000,98000000,10q23.3,PTEN,Tumor suppressor gene,Phosphatase And Tensin Homolog
+10,94200000,98000000,10q23.33,CEP55,Oncogene,Centrosomal Protein 55kDa
+10,98000000,105700000,10q24,FGF8,Oncogene,Fibroblast Growth Factor 8 (Androgen-Induced)
+10,98000000,105700000,10q24,LGI1,Tumor suppressor gene,Leucine-Rich
+10,98000000,105700000,10q24,LZTS2,Tumor suppressor gene,Leucine Zipper
+10,98000000,105700000,10q24,NFKB2,Oncogene,Nuclear Factor Of Kappa Light Polypeptide Gene Enhancer...
+10,98000000,105700000,10q24,PAX2,Oncogene,Paired Box
+10,98000000,105700000,10q24,TLX1,Oncogene,T-Cell Leukemia Homeobox 1
+10,98000000,119100000,10q24-q25,MXI1,Tumor suppressor gene,MAX Interactor 1
+10,98000000,99400000,10q24.1,FRAT1,& -- & Oncogene,frequently rearranged in advanced T-cell lymphomas FRAT1: Approved
+10,98000000,99400000,10q24.1,FRAT2,Oncogene,Frequently Rearranged In Advanced T-Cell Lymphomas
+10,98000000,99400000,10q24.1,SFRP5,Tumor suppressor gene,Secreted Frizzled-Related Protein 5
+10,103000000,104900000,10q24.32,PITX3,--,paired-like homeodomain 3 (Previous name: paired-like homeodomain transcription factor 3 ) PITX3: Ap
+10,105700000,119100000,10q25,CSPG6,Other,chondroitin sulfate proteoglycan 6 (bamacan)
+10,105700000,111800000,10q25.1,NEURL,Tumor suppressor gene,neuralized-like (Drosophila)
+10,114900000,119100000,10q25.3,TCF7L2,--,Transcription Factor 7-Like
+10,119100000,135374737,10q26,FGFR2,Oncogene,Fibroblast Growth Factor Receptor
+10,119100000,135374737,10q26,TACC2,Other,Transforming
+10,123100000,127400000,10q26.13,CTBP2,& -- & Tumor suppressor gene,C-Terminal Binding Protein
+10,123100000,127400000,10q26.13,DMBT1,Tumor suppressor gene,Deleted In Malignant Brain Tumors 1
+11,0,2800000,11p15.5,ANO9,--,Anoctamin 9
+11,0,2800000,11p15.5,CDKN1C,Tumor suppressor gene,Cyclin-Dependent Kinase Inhibitor 1C (P57
+11,0,2800000,11p15.5,DRD4,--,Dopamine Receptor D4
+11,0,2800000,11p15.5,HRAS,Oncogene,Harvey Rat Sarcoma Viral Oncogene Homolog
+11,0,2800000,11p15.5,MUC5B,--,mucin 5B
+11,0,2800000,11p15.5,NUP98,Other,Nucleoporin 98kDa
+11,0,2800000,11p15.5,RASSF7,--,Ras Association (RalGDS/AF-6) Domain Family (N-Terminal)... ----------------------------------------
+11,0,2800000,11p15.5,SLC22A18,Tumor suppressor gene,Solute Carrier Family
+11,0,2800000,11p15.5,TSPAN32,Tumor suppressor gene,Tetraspanin 32
+11,0,2800000,11p15.5,TSSC4,Tumor suppressor gene,Tumor Suppressing Subtransferable Candidate 4
+11,2800000,10700000,11p15.4,PRKCDBP,Tumor suppressor gene,Protein Kinase C
+11,10700000,31000000,11p15.3-p14,TPH1,--,Tryptophan Hydroxylase 1
+11,12600000,16100000,11p15.2,DKK3,Tumor suppressor gene,Dickkopf WNT Signaling Pathway Inhibitor 3
+11,12600000,16100000,11p15.2,RRAS2,Other,Related RAS Viral (R-Ras) Oncogene Homolog
+11,12600000,16100000,11p15.2,TEAD1,Oncogene,TEA Domain Family Member 1 (SV40 Transcriptional Enhancer...
+11,16100000,21600000,11p15.1,HTATIP2,Tumor suppressor gene,HIV-1 Tat Interactive Protein
+11,0,21600000,11p15,LMO1,Oncogene,LIM Domain Only 1 (Rhombotin 1)
+11,0,21600000,11p15,MRVI1,Tumor suppressor gene,Murine Retrovirus Integration Site 1 Homolog
+11,0,21600000,11p15,ST5,Tumor suppressor gene,Suppression Of Tumorigenicity 5
+11,0,21600000,11p15,TSG101,Tumor suppressor gene,Tumor Susceptibility 101
+11,31000000,36400000,11p13,CD44,--,CD44 Molecule (Indian Blood Group) ---------------------------------- (Previous name: CD44 antigen (
+11,31000000,36400000,11p13,LMO2,Oncogene,LIM Domain Only
+11,31000000,36400000,11p13,WT1,Tumor suppressor gene,Wilms Tumor 1
+11,36400000,52900000,11p12-p11,EXT2,Tumor suppressor gene,Exostosin Glycosyltransferase
+11,36400000,43400000,11p12,EHF,Tumor suppressor gene,Ets Homologous Factor
+11,43400000,48800000,11p11.2,CD82,Tumor suppressor gene,CD82 Molecule
+11,43400000,48800000,11p11.2,SPI1,Oncogene,Spleen Focus Forming Virus (SFFV) Proviral Integration Oncogene
+11,56400000,59700000,11q12.1,OR5AK3P,--,Olfactory Receptor
+11,56400000,59700000,11q12.1,OR8J2,--,Olfactory Receptor
+11,56400000,59700000,11q12.1,SLC43A1,Other,Solute Carrier Family 43 (Amino Acid System L Transporter)
+11,63100000,76700000,11q13,CCND1,Oncogene,Cyclin D1
+11,63100000,76700000,11q13,CDK2AP2,Tumor suppressor gene,Cyclin-Dependent Kinase
+11,63100000,76700000,11q13,CFL1,--,Cofilin 1 (Non-Muscle)
+11,63100000,76700000,11q13,CHRM1,Other,Cholinergic Receptor
+11,63100000,76700000,11q13,CTTN,Oncogene,Cortactin
+11,63100000,76700000,11q13,FGF3,& -- & Oncogene,Fibroblast Growth Factor 3
+11,63100000,76700000,11q13,FOSL1,Oncogene,FOS-Like Antigen 1
+11,63100000,76700000,11q13,MEN1,Tumor suppressor gene,Multiple Endocrine Neoplasia I
+11,63100000,76700000,11q13,NUMA1,Other,Nuclear Mitotic Apparatus Protein 1
+11,63100000,76700000,11q13,PLCB3,Tumor suppressor gene,Phospholipase C
+11,63100000,76700000,11q13,PPP1CA,Tumor suppressor gene,Protein Phosphatase 1
+11,63100000,67100000,11q13.1,BANF1,Oncogene,Barrier To Autointegration Factor 1
+11,67100000,69200000,11q13.2,CHKA,Oncogene,Choline Kinase Alpha
+11,69200000,70700000,11q13.3,FADD,Other,Fas (TNFRSF6)-Associated Via Death Domain
+11,69200000,70700000,11q13.3,FGF4,& -- & Oncogene,Fibroblast Growth Factor 4
+11,69200000,70700000,11q13.3,ORAOV1,Oncogene,Oral Cancer Overexpressed 1
+11,69200000,76700000,11q13.3-q13.5,RPS3,Other,Ribosomal Protein S3
+11,70700000,74900000,11q13.4,ARHGEF17,Tumor suppressor gene,Rho Guanine Nucleotide Exchange Factor (GEF) 17
+11,96700000,120700000,11q22-q23,ATM,--,Ataxia Telangiectasia Mutated
+11,102400000,110000000,11q22.3,CUL5,Tumor suppressor gene,Cullin 5
+11,110000000,120700000,11q23,LOH11CR2A,Tumor suppressor gene,loss of heterozygosity
+11,110000000,120700000,11q23,MLL,Oncogene,myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog
+11,110000000,120700000,11q23,RARRES3,Tumor suppressor gene,Retinoic Acid Receptor Responder (Tazarotene Induced) 3
+11,112800000,115400000,11q23.2,IGSF4,Tumor suppressor gene,immunoglobulin superfamily
+11,112800000,115400000,11q23.2,PPP2R1B,Tumor suppressor gene,Protein Phosphatase
+11,115400000,120700000,11q23.3,CBL,Oncogene,Cbl Proto-Oncogene
+11,115400000,120700000,11q23.3,DDX6,Other,DEAD (Asp-Glu-Ala-Asp) Box Helicase 6
+11,115400000,120700000,11q23.3,ETS1,& Oncogene & Tumor suppressor gene,V-Ets Avian Erythroblastosis Virus E26 Oncogene Homolog...
+11,120700000,130300000,11q24.1-q24.3,FLI1,Oncogene,Fli-1 Proto-Oncogene
+11,123500000,127400000,11q24.2,CDON,Oncogene,Cell Adhesion Associated
+11,123500000,127400000,11q24.2,CHEK1,Tumor suppressor gene,Checkpoint Kinase 1
+12,5300000,10000000,12p13.31,ING4,Tumor suppressor gene,Inhibitor Of Growth Family
+12,0,10000000,12p13.3,PRMT8,--,Protein Arginine Methyltransferase 8
+12,12600000,26300000,12p13.1-p12,CDKN1B,Tumor suppressor gene,Cyclin-Dependent Kinase Inhibitor 1B (P27
+12,0,19900000,12p13-p12.3,GPRC5A,Tumor suppressor gene,G Protein-Coupled Receptor
+12,0,14800000,12p13,CCND2,Oncogene,Cyclin D2
+12,0,14800000,12p13,ETV6,& -- & Tumor suppressor gene,Ets Variant 6
+12,0,14800000,12p13,FGF6,Oncogene,Fibroblast Growth Factor 6
+12,14800000,19900000,12p12.3,EMP1,Other,Epithelial Membrane Protein 1
+12,14800000,19900000,12p12.3,MGP,Other,Matrix Gla Protein
+12,14800000,19900000,12p12.3,RASSF8,Tumor suppressor gene,Ras Association (RalGDS/AF-6) Domain Family (N-Terminal)...
+12,21200000,33200000,12p12.1-p11.2,PTHLH,Other,Parathyroid Hormone-Like Hormone
+12,21200000,26300000,12p12.1,KRAS,Oncogene,Kirsten Rat Sarcoma Viral Oncogene Homolog
+12,26300000,33200000,12p11.2,SSPN,Other,Sarcospan
+12,36500000,44600000,12q12,PDZRN4,--,PDZ domain containing ring finger 4 PDZRN4: Approved
+12,36500000,44600000,12q12,RND1,Oncogene,Rho Family GTPase 1
+12,44600000,56300000,12q13,CDK2,Other,Cyclin-Dependent Kinase
+12,44600000,56300000,12q13,ERBB3,Oncogene,V-Erb-B2 Avian Erythroblastic Leukemia Viral Oncogene Homolog...
+12,44600000,56300000,12q13,KRT84,--,keratin 84 (Previous names: keratin
+12,44600000,56300000,12q13,WNT1,Oncogene,Wingless-Type MMTV Integration Site Family
+12,44600000,56300000,12q13,WNT10B,Other,Wingless-Type MMTV Integration Site Family
+12,44600000,69800000,12q13-q15,YEATS4,Other,YEATS Domain Containing 4
+12,44600000,55200000,12q13.1-q13.2,DDIT3,Oncogene,DNA-Damage-Inducible Transcript 3
+12,44600000,47400000,12q13.11,ANP32D,Other,Acidic (Leucine-Rich) Nuclear Phosphoprotein 32 Family
+12,44600000,47400000,12q13.11,COL2A1,--,Collagen
+12,48400000,53100000,12q13.13,ATP5B,--,ATP synthase
+12,48400000,53100000,12q13.13,KRT5,--,keratin 5 (Previous names: epidermolysis bullosa simplex 2 Dowling-Meara/Kobner/Weber-Cockayne types
+12,53100000,55200000,12q13.2,GLYCAM1,--,Glycosylation Dependent Cell Adhesion Molecule 1 (Pseudogene)
+12,53100000,56300000,12q13.2-q13.3,GLI1,Oncogene,GLI Family Zinc Finger 1
+12,55200000,56300000,12q13.3,HOXC6,Other,Homeobox C6
+12,56300000,66000000,12q14,CDK4,Oncogene,Cyclin-Dependent Kinase 4
+12,56300000,61400000,12q14.1,CTDSP2,Other,CTD (Carboxy-Terminal Domain
+12,61400000,63400000,12q14.2,SRGAP1,--,SLIT-ROBO Rho GTPase Activating Protein 1
+12,63400000,69800000,12q14.3-q15,MDM2,Oncogene,MDM2 Oncogene
+12,66000000,69800000,12q15,HMGA2,Oncogene,High Mobility Group AT-Hook
+12,69800000,91200000,12q21,PAWR,Tumor suppressor gene,PRKC
+12,69800000,74100000,12q21.1,TPH2,--,Tryptophan Hydroxylase
+12,91200000,107500000,12q22-q23,DUSP6,--,Dual Specificity Phosphatase 6
+12,94800000,107500000,12q23,APAF1,Tumor suppressor gene,Apoptotic Peptidase Activating Factor 1
+12,94800000,112800000,12q23-q24.1,PRDM4,Tumor suppressor gene,PR Domain Containing 4
+12,100000000,102400000,12q23.2,ASCL1,Other,Achaete-Scute Family BHLH Transcription Factor 1
+12,100000000,102400000,12q23.2,IGF1,--,Insulin-Like Growth Factor 1 (Somatomedin C)
+12,107500000,132349534,12q24,PTPN11,Oncogene,Protein Tyrosine Phosphatase
+12,110800000,112800000,12q24.13,BCL7A,Other,B-Cell CLL/Lymphoma 7A
+12,112800000,119100000,12q24.2,OAS1,--,2'-5'-oligoadenylate synthetase 1
+12,119100000,124500000,12q24.31,CDK2AP1,Tumor suppressor gene,Cyclin-Dependent Kinase
+12,119100000,124500000,12q24.31,RAB35,--,RAB35
+12,119100000,124500000,12q24.31,RSRC2,Tumor suppressor gene,Arginine/Serine-Rich Coiled-Coil
+13,16000000,31100000,13q11-q12,FGF9,--,Fibroblast Growth Factor 9
+13,18400000,31100000,13q12,ATP8A2,Tumor suppressor gene,ATPase
+13,27800000,31100000,13q12.3,APRIN,Tumor suppressor gene,androgen-induced proliferation inhibitor
+13,27800000,31100000,13q12.3,BRCA2,Tumor suppressor gene,Breast Cancer
+13,27800000,31100000,13q12.3,CDX2,& -- & Other,Caudal Type Homeobox
+13,39500000,52200000,13q14,GTF2F2,--,general transcription factor IIF
+13,39500000,52200000,13q14,RFP2,Tumor suppressor gene,ret finger protein 2
+13,39500000,46200000,13q14.1,FOXO1A,Tumor suppressor gene,forkhead box O1A (rhabdomyosarcoma)
+13,39500000,44300000,13q14.11,C13ORF15,& Other & Tumor suppressor gene,chromosome 13 open reading frame 15
+13,46200000,48900000,13q14.2,ARL11,Tumor suppressor gene,ADP-Ribosylation Factor-Like 11
+13,46200000,48900000,13q14.2,RB1,Tumor suppressor gene,Retinoblastoma 1
+13,48900000,52200000,13q14.3,DLEU1,Tumor suppressor gene,deleted in lymphocytic leukemia
+13,48900000,52200000,13q14.3,DLEU2,Tumor suppressor gene,deleted in lymphocytic leukemia
+13,109100000,114142980,13q34,CUL4A,Tumor suppressor gene,Cullin 4A
+13,109100000,114142980,13q34,ING1,Tumor suppressor gene,Inhibitor Of Growth Family
+13,109100000,114142980,13q34,MCF2L,Oncogene,MCF.2 Cell Line Derived Transforming Sequence-Like
+14,19100000,31800000,14q11.2-q12,BCL2L2,Oncogene,BCL2-Like
+14,23600000,31800000,14q12,CFL2,--,Cofilin
+14,31800000,36900000,14q13,NFKBIA,--,Nuclear Factor Of Kappa Light Polypeptide Gene Enhancer... -----------------------------------------
+14,31800000,36900000,14q13,NKX2-1,Oncogene,NK2 Homeobox 1
+14,35600000,36900000,14q13.3,NKX2-8,Other,NK2 Homeobox 8
+14,55800000,67000000,14q23,MAX,Other,MYC Associated Factor X
+14,67000000,69300000,14q24.1,GPX2,Oncogene,Glutathione Peroxidase
+14,72900000,78400000,14q24.3,ESRRB,--,estrogen-related receptor beta ------------------------------ (Previous names: deafness
+14,72900000,78400000,14q24.3,FOS,Oncogene,FBJ Murine Osteosarcoma Viral Oncogene Homolog
+14,72900000,78400000,14q24.3,SKIIP,Other,SNW domain containing 1
+14,88900000,95400000,14q32.1,TCL1A,Oncogene,T-Cell Leukemia/Lymphoma 1A
+14,88900000,95400000,14q32.1,TCL1B,Oncogene,T-Cell Leukemia/Lymphoma 1B
+14,88900000,95400000,14q32.1,TCL6,Oncogene,T-cell leukemia/lymphoma 6
+14,90500000,92800000,14q32.12,GOLGA5,Oncogene,Golgin A5
+14,102200000,103000000,14q32.32,AKT1,Oncogene,V-Akt Murine Thymoma Viral Oncogene Homolog 1
+14,103000000,106368585,14q32.33,IGHV2-70,--,Immunoglobulin Heavy Variable
+14,103000000,106368585,14q32.33,IGHV3-23,--,Immunoglobulin Heavy Variable 3-23
+15,25700000,31400000,15q13,UBR1,--,Ubiquitin Protein Ligase E3 Component N-Recognin 1
+15,31400000,42700000,15q14-q15,CCNDBP1,Tumor suppressor gene,Cyclin D-Type Binding-Protein 1
+15,37900000,42700000,15q15,TYRO3,--,TYRO3 Protein Tyrosine Kinase
+15,41400000,42700000,15q15.3,MAP1A,--,Microtubule-Associated Protein 1A --------------------------------- (Previous
+15,51100000,55800000,15q21.3,ALDH1A2,Tumor suppressor gene,Aldehyde Dehydrogenase 1 Family
+15,55800000,65300000,15q22,PML,Tumor suppressor gene,Promyelocytic Leukemia
+15,55800000,57100000,15q22.1,TPM1,Tumor suppressor gene,Tropomyosin 1 (Alpha)
+15,55800000,65300000,15q22.1-q22.33,MAP2K1,--,Mitogen-Activated Protein Kinase Kinase 1
+15,61500000,70400000,15q22.3-q23,NEO1,Tumor suppressor gene,Neogenin 1
+15,65000000,65300000,15q22.33,SMAD3,Tumor suppressor gene,SMAD Family Member 3
+15,65300000,70400000,15q23,ANP32A,Tumor suppressor gene,Acidic (Leucine-Rich) Nuclear Phosphoprotein 32 Family
+15,65300000,70400000,15q23,RCN2,Tumor suppressor gene,Reticulocalbin
+15,65300000,70400000,15q23,SENP8,--,SUMO/sentrin specific peptidase family member 8 (Previous names: protease
+15,70400000,76100000,15q24,CRABP1,Tumor suppressor gene,Cellular Retinoic Acid Binding Protein 1
+15,70400000,86900000,15q24-q25,AKAP13,Oncogene,A Kinase (PRKA) Anchor Protein 13
+15,70400000,73100000,15q24.1,CSK,Oncogene,C-Src Tyrosine Kinase
+15,70400000,73100000,15q24.1,CYP1A1,Other,Cytochrome P450
+15,73100000,74400000,15q24.2,CSPG4,Other,Chondroitin Sulfate Proteoglycan 4
+15,73100000,74400000,15q24.2,SIN3A,Tumor suppressor gene,SIN3 Transcription Regulator Family Member A
+15,76100000,86900000,15q25,MFGE8,Other,Milk Fat Globule-EGF Factor 8 Protein
+15,86900000,100338915,15q26,CHRM5,Other,Cholinergic Receptor
+15,86900000,92100000,15q26.1,BLM,Tumor suppressor gene,Bloom Syndrome
+15,86900000,92100000,15q26.1,FES,Oncogene,Feline Sarcoma Oncogene
+16,0,6300000,16p13.3,PKD1,Tumor suppressor gene,Polycystic Kidney Disease 1 (Autosomal Dominant)
+16,0,6300000,16p13.3,TELO2,--,Telomere Maintenance
+16,0,6300000,16p13.3,TSC2,& Tumor suppressor gene & --,Tuberous Sclerosis 2 -------------------- (Previous
+16,20500000,21700000,16p12.2,PLK1,Other,Polo-Like Kinase 1
+16,27600000,34400000,16p11.2,FUS,Oncogene,Fused In Sarcoma
+16,27600000,34400000,16p11.2,LAT,--,Linker For Activation Of T Cells
+16,27600000,34400000,16p11.2,PRKCB,--,protein kinase C
+16,27600000,34400000,16p11.2,TP53TG3C,--,TP53 Target 3C
+16,45500000,51200000,16q12.1,CYLD,Tumor suppressor gene,Cylindromatosis (Turban Tumor Syndrome)
+16,51200000,54500000,16q12.2,RBL2,Tumor suppressor gene,Retinoblastoma-Like
+16,65200000,82700000,16q22-q23,MAF,Oncogene,V-Maf Avian Musculoaponeurotic Fibrosarcoma Oncogene Homolog
+16,65200000,69400000,16q22.1,CBFB,Other,Core-Binding Factor
+16,65200000,69400000,16q22.1,CDH1,Tumor suppressor gene,Cadherin 1
+16,65200000,69400000,16q22.1,PARD6A,Other,Par-6 Family Cell Polarity Regulator Alpha
+16,78200000,80500000,16q23.2,BCMO1,--,Beta-Carotene 15
+16,80500000,82700000,16q23.3,CDH13,Tumor suppressor gene,Cadherin 13
+16,80500000,85600000,16q23.3-q24.1,WWOX,Tumor suppressor gene,WW Domain Containing Oxidoreductase
+16,82700000,88827254,16q24,CDK10,Other,Cyclin-Dependent Kinase 10
+16,82700000,85600000,16q24.1,IRF8,Tumor suppressor gene,Interferon Regulatory Factor 8
+16,87200000,88827254,16q24.3,CHMP1A,Tumor suppressor gene,Charged Multivesicular Body Protein 1A
+16,87200000,88827254,16q24.3,CPNE7,Tumor suppressor gene,Copine VII
+17,0,3600000,17p13.3,ALOX15,Other,Arachidonate 15-Lipoxygenase
+17,0,3600000,17p13.3,C1QBP,--,Complement Component 1
+17,0,3600000,17p13.3,CRK,Oncogene,V-Crk Avian Sarcoma Virus CT10 Oncogene Homolog
+17,0,3600000,17p13.3,HIC1,Tumor suppressor gene,Hypermethylated In Cancer 1
+17,0,3600000,17p13.3,MYBBP1A,Tumor suppressor gene,MYB Binding Protein (P160) 1a
+17,0,3600000,17p13.3,PITPNA,--,phosphatidylinositol transfer protein
+17,0,3600000,17p13.3,VPS53,Tumor suppressor gene,Vacuolar Protein Sorting 53 Homolog (S. Cerevisiae)
+17,6800000,11200000,17p13.1,FGF11,--,Fibroblast Growth Factor 11
+17,6800000,11200000,17p13.1,PER1,Tumor suppressor gene,Period Circadian Clock 1
+17,6800000,11200000,17p13.1,TP53,& Tumor suppressor gene & --,Tumor Protein P53
+17,6800000,11200000,17p13.1,XAF1,& Oncogene & Tumor suppressor gene,XIAP Associated Factor 1
+17,0,15900000,17p13-p12,NTN1,Other,Netrin 1
+17,0,11200000,17p13,USP6,Oncogene,Ubiquitin Specific Peptidase 6 (Tre-2 Oncogene)
+17,22200000,28800000,17q11.1-q11.2,TAF15,Oncogene,TAF15 RNA Polymerase II
+17,23200000,28800000,17q11.2,CCL8,--,Chemokine (C-C Motif) Ligand 8
+17,23200000,28800000,17q11.2,EVI2B,Other,Ecotropic Viral Integration Site
+17,23200000,28800000,17q11.2,NF1,Tumor suppressor gene,Neurofibromin 1
+17,23200000,28800000,17q11.2,SLC6A4,--,solute carrier family 6 (neurotransmitter transporter
+17,23200000,28800000,17q11.2,THRA,Oncogene,Thyroid Hormone Receptor
+17,23200000,35400000,17q11.2-q12,CCL2,Other,Chemokine (C-C Motif) Ligand
+17,28800000,35400000,17q12,ACCN1,Tumor suppressor gene,amiloride-sensitive cation channel 1
+17,28800000,35400000,17q12,C17ORF37,Oncogene,chromosome 17 open reading frame 37
+17,28800000,35400000,17q12,ERBB2,Oncogene,V-Erb-B2 Avian Erythroblastic Leukemia Viral Oncogene Homolog...
+17,28800000,35400000,17q12,GRB7,Other,Growth Factor Receptor-Bound Protein 7
+17,28800000,35400000,17q12,LHX1,Other,LIM Homeobox 1
+17,35400000,47600000,17q21,BRCA1,Tumor suppressor gene,Breast Cancer 1
+17,35400000,47600000,17q21,MLLT6,Other,Myeloid/Lymphoid Or Mixed-Lineage Leukemia (Trithorax Homolog
+17,35400000,47600000,17q21,PHB,Tumor suppressor gene,Prohibitin
+17,35400000,47600000,17q21,RARA,Oncogene,Retinoic Acid Receptor
+17,35600000,37800000,17q21.2,EIF1,Tumor suppressor gene,Eukaryotic Translation Initiation Factor 1
+17,37800000,41900000,17q21.31,MPP3,Tumor suppressor gene,Membrane Protein
+17,37800000,41900000,17q21.31,STAT3,& -- & Oncogene,Signal Transducer And Activator Of Transcription 3 (Acute-Phase...
+17,54900000,68400000,17q23-q24,AXIN2,Tumor suppressor gene,Axin
+17,64600000,68400000,17q24.3,GNA13,Oncogene,Guanine Nucleotide Binding Protein (G Protein)
+17,68400000,78774742,17q25,BIRC5,Other,Baculoviral IAP Repeat Containing 5
+17,68400000,78774742,17q25,ITGB4,Other,Integrin
+17,68400000,78774742,17q25,SECTM1,Other,Secreted And Transmembrane 1
+17,68400000,72200000,17q25.1,CD300E,--,CD300e Molecule
+17,68400000,72200000,17q25.1,CDK3,Other,Cyclin-Dependent Kinase 3
+17,68400000,72200000,17q25.1,RAB37,--,RAB37
+17,72200000,72900000,17q25.2,SPHK1,Oncogene,Sphingosine Kinase 1
+17,72900000,78774742,17q25.3,MAFG,Oncogene,V-Maf Avian Musculoaponeurotic Fibrosarcoma Oncogene Homolog...
+18,0,2900000,18p11.32,TYMS,--,thymidylate synthetase TYMS: Approved
+18,2900000,15400000,18p11.31-p11.21,YES1,Oncogene,V-Yes-1 Yamaguchi Sarcoma Viral Oncogene Homolog 1
+18,16100000,17300000,18q11.1,ROCK1,--,Rho-Associated
+18,16100000,23300000,18q11.1-q11.2,GATA6,& Oncogene & Tumor suppressor gene,GATA Binding Protein 6
+18,41800000,46400000,18q21.1,SMAD2,& -- & Tumor suppressor gene,SMAD Family Member
+18,41800000,46400000,18q21.1,SMAD4,Tumor suppressor gene,SMAD Family Member 4
+18,52000000,59800000,18q21.3,BCL2,Oncogene,B-Cell CLL/Lymphoma
+18,52000000,59800000,18q21.3,DCC,Tumor suppressor gene,Deleted In Colorectal Carcinoma
+18,52000000,59800000,18q21.3,FVT1,Other,follicular lymphoma variant translocation 1
+18,54400000,57100000,18q21.32,PMAIP1,Other,Phorbol-12-Myristate-13-Acetate-Induced Protein 1
+18,57100000,59800000,18q21.33,SERPINB5,Tumor suppressor gene,Serpin Peptidase Inhibitor
+19,0,6900000,19p13.3,ANGPTL4,--,Angiopoietin-Like 4
+19,0,6900000,19p13.3,APC2,Tumor suppressor gene,Adenomatosis Polyposis Coli
+19,0,6900000,19p13.3,ARID3A,Oncogene,AT Rich Interactive Domain 3A (BRIGHT-Like)
+19,0,6900000,19p13.3,EBI3,--,Epstein-Barr virus induced 3 EBI3: Approved
+19,0,6900000,19p13.3,MLLT1,Other,Myeloid/Lymphoid Or Mixed-Lineage Leukemia (Trithorax Homolog
+19,6900000,12600000,19p13.2,JUNB,Oncogene,Jun B Proto-Oncogene
+19,6900000,12600000,19p13.2,JUND,Oncogene,Jun D Proto-Oncogene
+19,6900000,12600000,19p13.2,LYL1,Oncogene,Lymphoblastic Leukemia Associated Hematopoiesis Regulator...
+19,6900000,12600000,19p13.2,NDUFA13,Tumor suppressor gene,NADH Dehydrogenase (Ubiquinone) 1 Alpha Subcomplex
+19,6900000,12600000,19p13.2,PRAM1,Oncogene,PML-RARA Regulated Adaptor Molecule 1
+19,6900000,12600000,19p13.2,VAV1,& Oncogene & --,Vav 1 Guanine Nucleotide Exchange Factor
+19,12600000,19800000,19p13.1,ELL,Oncogene,Elongation Factor RNA Polymerase II
+19,12600000,19800000,19p13.1,RAB8A,Oncogene,RAB8A
+19,0,19800000,19p13,PIN1,Oncogene,Peptidylprolyl Cis/Trans Isomerase
+19,30200000,37100000,19q12,CCNE1,Oncogene,Cyclin E1
+19,37100000,63811651,19q13,ERF,Tumor suppressor gene,Ets2 Repressor Factor
+19,37100000,63811651,19q13,KLK10,Tumor suppressor gene,Kallikrein-Related Peptidase 10
+19,37100000,43400000,19q13.1,AXL,Oncogene,AXL Receptor Tyrosine Kinase
+19,37100000,43400000,19q13.1,SPINT2,Tumor suppressor gene,Serine Peptidase Inhibitor
+19,37100000,43400000,19q13.1,ZNF146,Oncogene,Zinc Finger Protein 146
+19,37100000,47800000,19q13.1-q13.2,AKT2,Oncogene,V-Akt Murine Thymoma Viral Oncogene Homolog
+19,37100000,47800000,19q13.1-q13.2,BCL3,& -- & Oncogene,B-Cell CLL/Lymphoma 3
+19,37100000,47800000,19q13.1-q13.2,SERTAD1,Oncogene,SERTA Domain Containing 1
+19,43400000,47800000,19q13.2,CEACAM7,Tumor suppressor gene,Carcinoembryonic Antigen-Related Cell Adhesion Molecule...
+19,43400000,47800000,19q13.2,RPS19,Other,Ribosomal Protein S19
+19,47800000,57600000,19q13.3,DHDH,--,dihydrodiol dehydrogenase (dimeric) DHDH: Approved
+19,47800000,57600000,19q13.3,GLTSCR1,Tumor suppressor gene,Glioma Tumor Suppressor Candidate Region Gene 1
+19,47800000,57600000,19q13.3,GLTSCR2,Tumor suppressor gene,Glioma Tumor Suppressor Candidate Region Gene
+19,47800000,57600000,19q13.3,PRMT1,--,Protein Arginine Methyltransferase 1
+19,47800000,63811651,19q13.3-q13.4,BAX,Other,BCL2-Associated X Protein
+19,53800000,57600000,19q13.33,RRAS,Oncogene,Related RAS Viral (R-Ras) Oncogene Homolog
+19,57600000,63811651,19q13.4,HAS1,--,hyaluronan synthase 1 --------------------- (Previous
+20,0,5000000,20p13,CDC25B,Oncogene,Cell Division Cycle
+20,0,5000000,20p13,TGM3,Oncogene,Transglutaminase 3
+20,17800000,25700000,20p11.2,RBBP9,Other,Retinoblastoma Binding Protein 9
+20,27100000,41100000,20q11-q12,HCK,Oncogene,Hemopoietic Cell Kinase
+20,27100000,37100000,20q11.1-q11.23,MAPRE1,Other,Microtubule-Associated Protein
+20,28400000,37100000,20q11.2,DNMT3B,Other,DNA (Cytosine-5-)-Methyltransferase 3 Beta
+20,28400000,37100000,20q11.2,E2F1,Tumor suppressor gene,E2F Transcription Factor 1
+20,28400000,37100000,20q11.2,TGM3,Oncogene,Transglutaminase 3
+20,28400000,49200000,20q11.2-q13.1,MAFB,Oncogene,V-Maf Avian Musculoaponeurotic Fibrosarcoma Oncogene Homolog...
+20,37100000,41100000,20q12,NCOA3,Oncogene,Nuclear Receptor Coactivator 3
+20,37100000,62435964,20q12-q13,SRC,Oncogene,V-Src Avian Sarcoma (Schmidt-Ruppin A-2) Viral Oncogene...
+20,41100000,62435964,20q13,AURKA,Oncogene,Aurora Kinase A
+20,41100000,62435964,20q13,CSE1L,Oncogene,CSE1 Chromosome Segregation 1-Like (Yeast)
+20,41100000,49200000,20q13.1,MYBL2,Oncogene,V-Myb Avian Myeloblastosis Viral Oncogene Homolog-Like
+20,41100000,54400000,20q13.1-q13.2,PTPN1,--,Protein Tyrosine Phosphatase
+20,41600000,45800000,20q13.12,TP53TG5,--,TP53 Target 5
+20,41600000,45800000,20q13.12,WISP2,Oncogene,WNT1 Inducible Signaling Pathway Protein
+20,49200000,54400000,20q13.2,BCAS1,Other,Breast Carcinoma Amplified Sequence 1
+20,49200000,54400000,20q13.2,SALL4,Oncogene,Spalt-Like Transcription Factor 4
+20,49200000,54400000,20q13.2,TFAP2C,Other,Transcription Factor AP-2 Gamma (Activating Enhancer Binding...
+20,49200000,54400000,20q13.2,ZNF217,Oncogene,Zinc Finger Protein
+20,49200000,62435964,20q13.2-q13.3,STK6,Other,serine/threonine kinase 6
+20,54400000,62435964,20q13.3,GNAS,Oncogene,GNAS Complex Locus
+20,54400000,62435964,20q13.3,LIME1,--,Lck Interacting Transmembrane Adaptor 1
+20,54400000,62435964,20q13.3,PTK6,& -- & Other,PTK6 protein tyrosine kinase 6 PTK6: Approved
+20,54400000,62435964,20q13.3,TNFRSF6B,Oncogene,Tumor Necrosis Factor Receptor Superfamily
+20,55900000,57900000,20q13.32,CTSZ,Other,Cathepsin Z
+20,57900000,62435964,20q13.33,CABLES2,Tumor suppressor gene,Cdk5 And Abl Enzyme Substrate
+20,57900000,62435964,20q13.33,MRGBP,--,MRG/MORF4L binding protein -------------------------- (Previous name: chromosome 20 open reading fra
+21,15300000,22900000,21q21.1,PPIAP22,--,Peptidylprolyl Isomerase A (Cyclophilin A) Pseudogene
+21,30500000,34700000,21q22.11,GRIK1-AS2,--,GRIK1 Antisense RNA
+21,30500000,34700000,21q22.11,TIAM1,Other,T-Cell Lymphoma Invasion And Metastasis 1
+21,38600000,41400000,21q22.2,ETS2,Oncogene,V-Ets Avian Erythroblastosis Virus E26 Oncogene Homolog...
+21,41400000,46944323,21q22.3,COL18A1,Tumor suppressor gene,Collagen
+21,41400000,46944323,21q22.3,ERG,Oncogene,V-Ets Avian Erythroblastosis Virus E26 Oncogene Homolog
+21,41400000,46944323,21q22.3,RUNX1,Other,Runt-Related Transcription Factor 1
+22,16300000,24300000,22q11.2,DGCR8,--,DGCR8 Microprocessor Complex Subunit
+22,16300000,24300000,22q11.2,IGLC1,--,Immunoglobulin Lambda Constant 1 (Mcg Marker)
+22,16300000,24300000,22q11.2,IGLC3,--,Immunoglobulin Lambda Constant 3 (Kern-Oz+ Marker)
+22,16300000,24300000,22q11.2,IGLC6,--,Immunoglobulin Lambda Constant 6 (Kern+Oz- Marker
+22,16300000,24300000,22q11.2,IGLC7,--,Immunoglobulin Lambda Constant 7
+22,16300000,20500000,22q11.21,CRKL,Oncogene,V-Crk Avian Sarcoma Virus CT10 Oncogene Homolog-Like
+22,16300000,20500000,22q11.21,MAPK1,--,Mitogen-Activated Protein Kinase 1
+22,21800000,24300000,22q11.23,BCR,Other,Breakpoint Cluster Region
+22,21800000,24300000,22q11.23,GSTT1,Tumor suppressor gene,Glutathione S-Transferase Theta 1
+22,21800000,24300000,22q11.23,MMP11,Tumor suppressor gene,Matrix Metallopeptidase 11 (Stromelysin 3)
+22,24300000,27900000,22q12.1,CHEK2,Tumor suppressor gene,Checkpoint Kinase
+22,24300000,27900000,22q12.1,MIAT,--,myocardial infarction associated transcript (non-protein coding) (Previous name: chromosome 22 open
+22,27900000,30500000,22q12.2,C22orf19,Tumor suppressor gene,chromosome 22 open reading frame 19
+22,27900000,30500000,22q12.2,EWSR1,Oncogene,EWS RNA-Binding Protein 1
+22,27900000,30500000,22q12.2,NF2,Tumor suppressor gene,Neurofibromin
+22,27900000,30500000,22q12.2,PATZ1,Oncogene,POZ (BTB) And AT Hook Containing Zinc Finger 1
+22,27900000,30500000,22q12.2,RRP22,Other,RAS-related on chromosome 22
+22,27900000,30500000,22q12.2,THOC5,--,THO complex 5 (Previous name: chromosome 22 open reading frame 19 ) THOC5: Approved
+22,35900000,39300000,22q13.1,PDGFB,Oncogene,Platelet-Derived Growth Factor Beta Polypeptide
+22,35900000,39300000,22q13.1,SSTR3,Other,Somatostatin Receptor 3
+22,39300000,42600000,22q13.2,RBX1,Tumor suppressor gene,Ring-Box 1
+22,39300000,42600000,22q13.2,ST13,Tumor suppressor gene,Suppression Of Tumorigenicity 13 (Colon Carcinoma) (Hsp7...
+22,42600000,49691432,22q13.3,LINC00229,--,long intergenic non-protein coding RNA 229 (Previous names: chromosome 22 open reading frame 10
